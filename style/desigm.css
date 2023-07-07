@@ -27,11 +27,19 @@
     background-color: aquamarine;
 }
 .head{
-    background-color: blueviolet;
-    b
+    background-color: blue;
+
 }
 .brain{
     border: 8px solid black;
     padding-left: 5px;
+    max-width: max-content;
+}
+.job{
+    background-color: blue;
+    border: 10px;
+    height: max-content;
+    justify-content: center;
+    align-items: center;
 }
  
