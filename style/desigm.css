@@ -1,0 +1,18 @@
+.Name{ 
+    width: 150px;
+    height: max-content;
+    inline-size: 100px;
+    display:inline-flex;
+    margin: 0px;
+}
+.email{
+    inline-size: 100px;
+    display: flex;
+}
+/* .ad{
+ inline-size: 100px;
+} */
+ #first name{
+    inline-size: 100px;
+}
+ 
